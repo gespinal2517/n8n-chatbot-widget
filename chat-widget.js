@@ -176,6 +176,12 @@
             align-self: flex-start;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
         }
+        
+        .n8n-chat-widget .chat-message.bot a {
+            color: #1e2945;
+            text-decoration: underline;
+            font-weight: 500;
+        }
 
         .n8n-chat-widget .chat-input {
             padding: 16px;
